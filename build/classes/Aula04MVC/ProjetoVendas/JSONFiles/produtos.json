@@ -1,0 +1,11 @@
+[{
+        "id": 10,
+        "estoque": 100,
+        "descricao": "OMO",
+        "valor": 7.0
+    }, {
+        "id": 27,
+        "estoque": 100,
+        "descricao": "QBOA",
+        "valor": 5.3
+    }]

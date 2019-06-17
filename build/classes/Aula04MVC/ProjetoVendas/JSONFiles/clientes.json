@@ -1,0 +1,29 @@
+[{
+        "cpf": "098.311.179.05",
+        "rg": "6.731.730",
+        "fone": "988563350",
+        "email": "rodrigohaering333@gmail.com",
+        "endereco": "jardim alexader",
+        "numero": 487,
+        "bairro": "canoas",
+        "cidade": "Rio do Sul",
+        "estado": "SC",
+        "nome": "rodrigo haering",
+        "usuario": "rodrigu",
+        "senha": "610FF6CB7323DC617E63BED2BF0C6ADEAB6724A5",
+        "ID": 1
+    }, {
+        "cpf": "1234567890",
+        "rg": "24242424",
+        "fone": "90909090",
+        "email": "cristyanpberto@gmail.com",
+        "endereco": "rua xv de novembro",
+        "numero": 24,
+        "bairro": "centro",
+        "cidade": "agronomica",
+        "estado": "SC",
+        "nome": "cristyan berto",
+        "usuario": "crisberto",
+        "senha": "74A344C3285274C967A786108B8449848B63506E",
+        "ID": 2
+    }]
